@@ -1,3 +1,10 @@
+footer {
+  position: fixed;
+  bottom: 0;
+  width: 100%;
+  background-color: black;
+  color: white;
+}
 .neonText {
   color: green;
   text-shadow: 0 0 7px green, 0 0 10px green, 0 0 21px green, 0 0 42px green,
